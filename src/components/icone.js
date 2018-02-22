@@ -6,6 +6,7 @@ import {
   View
 } from 'react-native';
 
+
 class Icone extends Component{
   render(){
 
